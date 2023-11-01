@@ -86,8 +86,17 @@ main {
     margin-top: 42px;
 }
 /* Footer */
-footer {
-    background-color: #D5D8DC;
+
+#social-networks {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin: 0.5rem;
+}
+
+#social-networks a {
+    color: inherit;
+    font-size: 2rem;
 }
 
 /* Media query: tablets and larger (768px and up) */
