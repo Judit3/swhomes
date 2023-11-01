@@ -16,6 +16,12 @@ body {
     color: #1C2833;
     font-family: 'Roboto Mono', sans-serif;
 }
+
+h1, h2, h3 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
 /* Header */
 header {
     background-color: #ffffff;
@@ -32,11 +38,6 @@ header {
 header a {
     text-decoration: none;
     color: inherit;
-}
-
-h1 {
-    text-transform: uppercase;
-    letter-spacing: 2px;
 }
 
 /* Navigation bar */
@@ -87,9 +88,15 @@ main {
 
 /* Lanscape section */
 #landscape {
-    height: 81vh;
+    height: 85vh;
     width: 100%;
     background: url(../images/pexels-gaurav-singh-18776804.jpg) no-repeat 65% 45%/cover;
+    position: relative;
+}
+
+#cover-text {
+    background-color: rgba(144, 179, 69, 0.7);
+    position: absolute;
 }
 
 /* Footer */
@@ -98,6 +105,7 @@ main {
     justify-content: space-evenly;
     list-style-type: none;
     margin: 0.5rem;
+    position: fix;
 }
 
 #social-networks a {
