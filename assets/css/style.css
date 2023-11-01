@@ -65,6 +65,7 @@ nav {
     box-shadow: 0 2px 3px #1C2833;
     display: none;
     top: 100%;
+    letter-spacing: 1px;
 }
 
 /* Nav toggle */
@@ -97,6 +98,15 @@ main {
 #cover-text {
     background-color: rgba(144, 179, 69, 0.7);
     position: absolute;
+    width: 80%;
+    bottom: 30px;
+    padding: 10px 20px;
+    
+}
+#content {
+    position: absolute;
+    width: 100%;
+    
 }
 
 /* Footer */
@@ -140,6 +150,12 @@ main {
     /* Main content */
     main {
         margin-top: 75px;
+    }
+    /* Lanscape section */
+    #cover-text {
+        left: 50px;
+        width: 350px;
+        
     }
 }
 
