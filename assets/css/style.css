@@ -119,5 +119,14 @@ footer {
     main {
         margin-top: 75px;
     }
-
 }
+
+/* Media query: laptop and larger (992px and up) */
+@media screen and (min-width: 992px) {
+    
+    /* Header */
+    #menu a:hover {
+        text-decoration: underline;
+    }
+}
+    
