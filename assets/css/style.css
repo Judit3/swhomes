@@ -24,6 +24,9 @@ header {
     z-index: 99;
     width: 100%;
     box-shadow: 0 2px 3px #1C2833;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 header a {
@@ -51,7 +54,7 @@ h1 {
     text-decoration: underline;
  }
 
- /* Nav bar dropdown toggle */
+ /* Navbar dropdown toggle */
 nav {
     position: absolute;
     background-color: #ffffff;
@@ -60,9 +63,21 @@ nav {
     padding: 0 1rem;
     box-shadow: 0 2px 3px #1C2833;
     display: none;
-    
+    top: 100%;
 }
 
+/* Nav toggle */
+#nav-toggle:checked~nav {
+    display: block;
+}
+ 
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
+}
 
 /* Main content */
 main {
