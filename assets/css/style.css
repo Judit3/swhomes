@@ -81,10 +81,17 @@ nav {
 
 /* Main content */
 main {
-    background-color: #F5B7B1;
     flex: 1 0 auto;
     margin-top: 42px;
 }
+
+/* Lanscape section */
+#landscape {
+    height: 81vh;
+    width: 100%;
+    background: url(../images/pexels-gaurav-singh-18776804.jpg) no-repeat 65% 45%/cover;
+}
+
 /* Footer */
 #social-networks {
     display: flex;
