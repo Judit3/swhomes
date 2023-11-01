@@ -86,7 +86,6 @@ main {
     margin-top: 42px;
 }
 /* Footer */
-
 #social-networks {
     display: flex;
     justify-content: space-evenly;
@@ -100,7 +99,6 @@ main {
 }
 
 /* Media query: tablets and larger (768px and up) */
-
 @media screen and (min-width: 768px) {
     /* Header */
     nav {
