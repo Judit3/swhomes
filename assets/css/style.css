@@ -13,18 +13,21 @@ body {
     display: flex;
     flex-direction: column;
     /* Generic project styles */
-    color: #2980B9;
+    color: #1C2833;
     font-family: 'Roboto Mono', sans-serif;
 }
 /* Header */
 header {
-    background-color: #A2D9CE;
+    background-color: #ffffff;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99%;
+    width: 100%;
+    box-shadow: 0 2px 3px #1C2833;
 }
 
 /* Logo and navigation bar */
-#logo {
-    
-}
+#logo {}
 
 /* Main content */
 main {
