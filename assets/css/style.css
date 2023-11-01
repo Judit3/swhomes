@@ -37,7 +37,19 @@ h1 {
 }
 
 /* Logo and navigation bar */
-#logo {}
+ #menu {
+    font-size: 110%;
+    letter-spacing: 3px;
+    list-style-type: none;
+ }
+
+ #menu > li {
+    margin-bottom: 0.5em;
+ }
+
+ .active {
+    text-decoration: underline;
+ }
 
 /* Main content */
 main {
