@@ -182,14 +182,16 @@ form {
     display: block;
     padding: 0 0 0 3px;
     width: 100%;
-    background-color: ;
+    background-color: transparent;
+    border: 1px solid #ffffff;
 }
 
 ::file-selector-button {
     font-family: inherit;
-    color: #0c0b0b;
+    color: #ffffff;
     position: relative;
     margin-top: 3px;
+    background-color: #D98880;
 }
 
 /* Footer */
@@ -260,6 +262,7 @@ form {
     #photos {
         column-count: 3;
     }
+    
     /* Contact page */
     #contact {
         background-position: 100%;
@@ -283,5 +286,4 @@ form {
     #photos {
         column-count: 4;
     }
-
 }
