@@ -107,10 +107,17 @@ main {
     padding: 10px 20px;
 }
 
+/* About page */
+#swh-logo {
+    height: 30px;
+    width: 30px;
+}
+
 #content {
     background-color: rgba(253, 254, 254, 0.4);
     position: absolute;
     width: 100%;
+    padding: 20px;
 }
 
 /* Gallery page*/
