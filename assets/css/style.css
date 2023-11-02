@@ -99,12 +99,17 @@ main {
 }
 
 #cover-text {
-    background-color: rgba(149, 165, 166, 0.6);
+    background-color: rgba(128, 139, 150, 0.6);
     position: absolute;
     color: #ffffff;
     width: 80%;
-    bottom: 30px;
+    top: 30px;
     padding: 10px 20px;
+}
+
+.swh-link {
+    text-decoration: none;
+    color: #ffffff;
 }
 
 /* About page */
@@ -114,8 +119,8 @@ main {
 }
 
 #content {
-    background-color: rgba(253, 254, 254, 0.4);
-    position: absolute;
+    background-color: rgba(19, 137, 137, 0.4);
+    position: relative;
     width: 100%;
     padding: 20px;
 }
@@ -261,6 +266,7 @@ form {
 
     /* Lanscape section */
     #cover-text {
+        top: 50px;
         left: 50px;
         width: 350px;
     }
