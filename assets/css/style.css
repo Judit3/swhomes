@@ -96,17 +96,18 @@ main {
 }
 
 #cover-text {
-    background-color: rgba(144, 179, 69, 0.7);
+    background-color: rgba(149, 165, 166, 0.6);
     position: absolute;
+    color: #ffffff;
     width: 80%;
     bottom: 30px;
     padding: 10px 20px;
-    
 }
+
 #content {
+    background-color: rgba(149, 165, 166, 0.6);
     position: absolute;
     width: 100%;
-    
 }
 
 /* Footer */
