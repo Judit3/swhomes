@@ -134,7 +134,7 @@ main {
     background-image: url("../images/pexels-miss-zwiespalt-5948374.jpg");
     background-size: cover;
     background-position: 75%;
-    padding: 10%;
+    padding: 5% 5% 0 5%;
     flex-grow: 1;
 }
 
