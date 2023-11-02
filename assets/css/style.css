@@ -13,7 +13,6 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    /* Generic project styles */
     color: #1C2833;
     font-family: 'Roboto Mono', sans-serif;
 }
@@ -107,11 +106,6 @@ main {
     padding: 10px 20px;
 }
 
-.swh-link {
-    text-decoration: none;
-    color: #ffffff;
-}
-
 /* About page */
 #content {
     background-color: rgba(19, 137, 137, 0.4);
@@ -151,7 +145,7 @@ main {
     text-align: center;
 }
 
-    /* Form */
+/* Form */
 form {
     margin: 20px 0;
 }
@@ -217,7 +211,6 @@ form {
     justify-content: space-evenly;
     list-style-type: none;
     margin: 0.5rem;
-    position: fix;
 }
 
 #social-networks a {
