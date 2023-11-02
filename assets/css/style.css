@@ -105,8 +105,13 @@ main {
 }
 
 #content {
-    background-color: rgba(149, 165, 166, 0.6);
+    background-color: rgba(253, 254, 254, 0.4);
     position: absolute;
+    width: 100%;
+}
+
+/* Gallery page*/
+#photos img {
     width: 100%;
 }
 
