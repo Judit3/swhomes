@@ -138,6 +138,10 @@ main {
     margin-bottom: 20px;
 }
 
+.text-input {
+    
+}
+
 /* Footer */
 #social-networks {
     display: flex;
