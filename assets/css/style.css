@@ -180,12 +180,13 @@ form {
 
 .submit-button {
     font-family: inherit;
-    color: #ffffff;
-    background-color: #D98880;
+    color: #241e1e;
+    background-color: #ffffff;
     border-radius: 5px;
     padding: 0 10px 3px 10px;
     height: 30px;
     margin-top: 20px;
+    cursor: pointer;
 }
 
 #file {
@@ -193,16 +194,18 @@ form {
     display: block;
     padding: 0 0 0 3px;
     width: 100%;
-    background-color: transparent;
+    background-color: #ffffff;
     border: 1px solid #ffffff;
 }
 
 ::file-selector-button {
     font-family: inherit;
-    color: #ffffff;
+    color: #241e1e;;
     position: relative;
     margin-top: 3px;
-    background-color: #D98880;
+    border-radius: 5px;
+    background-color: #ffffff;
+    cursor: pointer;
 }
 
 /* Footer */
