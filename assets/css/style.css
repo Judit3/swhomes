@@ -113,16 +113,21 @@ main {
 }
 
 /* About page */
-#swh-logo {
-    height: 30px;
-    width: 30px;
-}
-
 #content {
     background-color: rgba(19, 137, 137, 0.4);
     position: relative;
     width: 100%;
     padding: 20px;
+}
+
+#swh-logo {
+    height: 30px;
+    width: 30px;
+    margin: 10px 50%;
+}
+
+.text-about {
+    margin-bottom: 20px;
 }
 
 /* Gallery page*/
