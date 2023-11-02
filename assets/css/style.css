@@ -282,10 +282,6 @@ form {
     }
     
     /* Contact page */
-    #contact {
-        background-position: 100%;
-    }
-
     #contact-form, #upload-form, #contact>h2 {
         max-width: 400px;
         left: 10%;
@@ -303,5 +299,11 @@ form {
     /* Gallery page */
     #photos {
         column-count: 4;
+    }
+
+    /* Contact page */
+    #contact {
+        background-position-x: 100%;
+        background-position-y: 18%;
     }
 }
