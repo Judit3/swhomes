@@ -88,6 +88,8 @@ nav {
 main {
     flex: 1 0 auto;
     margin-top: 42px;
+    display: flex;
+    flex-direction: column;
 }
 
 /* Lanscape section */
@@ -116,6 +118,24 @@ main {
 /* Gallery page*/
 #photos img {
     width: 100%;
+}
+
+/* Contact page */
+#contact{
+    background-image: url("../images/pexels-miss-zwiespalt-5948374.jpg");
+    background-size: cover;
+    background-position: 75%;
+    flex-grow: 1;
+}
+    /* Form */
+#contact-form, #submit {
+    background-color: rgba(26, 23, 23, 0.4);
+    color: #ffffff;
+    padding: 30px;
+}
+
+#contact-form > h2, #submit > h2 {
+    margin-bottom: 20px;
 }
 
 /* Footer */
