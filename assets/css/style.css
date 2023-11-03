@@ -150,13 +150,12 @@ main {
     letter-spacing: 2px;
     list-style-type: none;
     margin-bottom: 40px;
-    color: #1c2833;
-    text-decoration: none;
 }
-
-#contact-details li {
+    
+#contact-details a {
     color: #1c2833;
     text-decoration: none;
+    padding: 10px;
 }
 
 iframe {
