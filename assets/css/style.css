@@ -116,13 +116,27 @@ main {
 }
 
 #swh-logo {
-    height: 30px;
-    width: 30px;
-    margin: 10px 50%;
+    height: 50px;
+    width: 50px;
+    margin: 10px; 
 }
 
 .text-about {
     margin-bottom: 20px;
+    text-align: center;
+    padding: 20px;
+}
+
+.text-about >p {
+    padding-top: 10px;
+}
+
+.text-about > h4 {
+    text-transform: uppercase;   
+}
+
+#our-job, #our-team {
+    background-color: #ffffff;
 }
 
 /* Gallery page*/
