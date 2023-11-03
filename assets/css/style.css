@@ -149,15 +149,9 @@ main {
     margin-bottom: 40px;
 }
 
-.contact-info {
-    text-decoration: none;
-    color: #1C2833;
-    padding: 10px;
-    line-height: 2rem;
-}
-
-#map {
+iframe {
     border-style: none;
+    height: 400px;
 }
 
 /* Gallery page*/
