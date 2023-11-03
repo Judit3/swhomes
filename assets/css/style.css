@@ -93,7 +93,7 @@ main {
 #landscape {
     height: 85vh;
     width: 100%;
-    background: url(../images/pexels-gaurav-singh-18776804.jpg) no-repeat 65% 45%/cover;
+    background: url(../images/index.webp) no-repeat 65% 45%/cover;
     position: relative;
     margin-top: -10px;
 }
@@ -132,7 +132,7 @@ main {
 
 /* Contact page */
 #contact{
-    background-image: url("../images/pexels-miss-zwiespalt-5948374.jpg");
+    background-image: url("../images/contact.webp");
     background-size: cover;
     background-position: 75%;
     padding: 5% 5% 0 5%;
