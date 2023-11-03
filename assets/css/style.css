@@ -142,17 +142,18 @@ main {
     background-color: #ffffff;
 }
 
-#contacts {    
+#contact-details {    
     text-align: center;
     letter-spacing: 2px;
     list-style-type: none;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 .contact-info {
     text-decoration: none;
     color: #1C2833;
     padding: 10px;
+    line-height: 2rem;
 }
 
 #map {
