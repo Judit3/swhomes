@@ -17,9 +17,7 @@ body {
     font-family: "Roboto Mono", sans-serif;
 }
 
-h1,
-h2,
-h3 {
+h1, h2, h3 {
     text-transform: uppercase;
     letter-spacing: 2px;
 }
@@ -151,7 +149,7 @@ main {
     list-style-type: none;
     margin-bottom: 40px;
 }
-    
+
 #contact-details a {
     color: #1c2833;
     text-decoration: none;
