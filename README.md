@@ -2,7 +2,7 @@
 
 This is a site for architects and anyone interested in house design, where they will have access to the latest Swedish wooden houses images to get inspiration from. It is being created and an example of website for architecture business mainly. The website was designed to be user-friendly, functional and responsive across all devices. This website was built as a first project of the program to become a Full Stack Software Development at Code Institute. The requirement was to build a static front-end site to present useful information to users, using HTML5 and CSS3.
 
-![responsive website example image](assets/images/features/responsive.png)
+![responsive website example image](assets/images/readme/responsive.png)
 
 ---
 
