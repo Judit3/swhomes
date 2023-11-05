@@ -104,3 +104,7 @@ Wireframes were created for mobile and desktop.
 
 ### Home
 
+![home wireframe](assets/images/readme/homereadme.png)
+
+###
+
