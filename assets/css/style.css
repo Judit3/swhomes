@@ -164,6 +164,7 @@ iframe {
 /* Gallery page*/
 #photos img {
     width: 100%;
+    height: auto;
 }
 
 /* Contact page */
