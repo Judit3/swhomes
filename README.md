@@ -43,6 +43,8 @@ This is a site for architects and anyone interested in house design, where they 
       - [How to Clone](#how-to-clone)
       - [How to Fork](#how-to-fork)
   - [Testing](#testing)
+  - [CSS Validation](#css-validation)
+  - [HTML Validation](#html-validation)
 
 ---
 
@@ -230,4 +232,16 @@ To fork the repository:
 
 ## Testing
 
+## CSS Validation
+
+The CSS code was validated using W3C tool.
+![css validation]()
+
+## HTML Validation
+
+Every page of the website was validated using the W3C tool.
+![html validation](assets/READMEfiles/test1.jpg)
+![alt text](assets/READMEfiles/test2.jpg)
+![alt text](assets/READMEfiles/test3.jpg)
+![alt text](assets/READMEfiles/test4.jpg)
 
