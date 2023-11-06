@@ -6,127 +6,135 @@ This is a site for architects and anyone interested in house design, where they 
 
 ---
 
-# CONTENTS
+## CONTENTS
 
 - [Swedish Wooden Homes](#swedish-wooden-homes)
-- [CONTENTS](#contents)
-- [User experience](#user-experience)
-  - [Key information of the site](#key-information-of-the-site)
-  - [Target Audience](#target-audience)
-  - [User stories](#user-stories)
-    - [Client Goals](#client-goals)
-    - [First Time Visitor Goals](#first-time-visitor-goals)
-    - [Returning Visitor Goals](#returning-visitor-goals)
-    - [Frequent Visitor Goals](#frequent-visitor-goals)
-- [Design](#design)
-  - [Colour Scheme](#colour-scheme)
-  - [Typography](#typography)
-  - [Imagery](#imagery)
-  - [Wireframes](#wireframes)
-    - [Home](#home)
-    - [About](#about)
-    - [Gallery](#gallery)
-    - [Contact](#contact)
-  - [Features](#features)
-    - [Navigation bar in header](#navigation-bar-in-header)
-    - [Social media icons in footer](#social-media-icons-in-footer)
-    - [Home page](#home-page)
-    - [About page](#about-page)
-    - [Gallery page](#gallery-page)
-    - [Contact page](#contact-page)
-    - [Future Implementations](#future-implementations)
-  - [Accesibility](#accesibility)
-- [Tecnologie used](#tecnologie-used)
-  - [Languages Used](#languages-used)
+  - [CONTENTS](#contents)
+  - [User experience](#user-experience)
+    - [Key information of the site](#key-information-of-the-site)
+    - [Target Audience](#target-audience)
+    - [User stories](#user-stories)
+      - [Client Goals](#client-goals)
+      - [First Time Visitor Goals](#first-time-visitor-goals)
+      - [Returning Visitor Goals](#returning-visitor-goals)
+      - [Frequent Visitor Goals](#frequent-visitor-goals)
+  - [Design](#design)
+    - [Colour Scheme](#colour-scheme)
+    - [Typography](#typography)
+    - [Imagery](#imagery)
+    - [Wireframes](#wireframes)
+      - [Home](#home)
+      - [About](#about)
+      - [Gallery](#gallery)
+      - [Contact](#contact)
+    - [Features](#features)
+      - [Navigation bar in header](#navigation-bar-in-header)
+      - [Social media icons in footer](#social-media-icons-in-footer)
+      - [Home page](#home-page)
+      - [About page](#about-page)
+      - [Gallery page](#gallery-page)
+      - [Contact page](#contact-page)
+      - [Future Implementations](#future-implementations)
+    - [Accesibility](#accesibility)
+  - [Tecnologie used](#tecnologie-used)
+    - [Languages Used](#languages-used)
   - [Deployment](#deployment)
     - [Local Development](#local-development)
       - [How to Clone](#how-to-clone)
       - [How to Fork](#how-to-fork)
   - [Testing](#testing)
-  - [CSS Validation](#css-validation)
-  - [HTML Validation](#html-validation)
+    - [CSS Validation](#css-validation)
+    - [HTML Validation](#html-validation)
+    - [Performance](#performance)
+    - [Accessibility](#accessibility)
+    - [Manual Testing](#manual-testing)
+  - [Credits](#credits)
+    - [Code Used](#code-used)
+    - [Content](#content)
+    - [Media](#media)
+    - [Acknowledgments](#acknowledgments)
 
 ---
 
-# User experience
+## User experience
 
-## Key information of the site
+### Key information of the site
 
 - What are the latest home design
 - How to become a data base contributor and take part.
 - A way for people to locate and contact the site owners.
 
-## Target Audience
+### Target Audience
 
 The target audience is architects, designers and people interested in architecture and design. The website is basic with beautiful images, a short description of the intent of the page. It also has a contact page for visitors to upload their projects and contribute to the content of the site. Links to social media platforms.
 
-## User stories
+### User stories
 
-### Client Goals
+#### Client Goals
 
 - To be able to view the site on a range of device sizes.
 - To make it easy for potential users to find out what the swhomes site is and how to take part.
 - To allow people to be able to contact the swhomes to ask further questions.
 
-### First Time Visitor Goals
+#### First Time Visitor Goals
 
 - Find out what swhomes is.
 - Be able to navigate the site easily to find information.
 - Be able to find swhomes social media profile.
 
-### Returning Visitor Goals
+#### Returning Visitor Goals
 
 - Find up to date information on latest Swedish architecture tendencies.
 - Be able to easily contact swhomes with questions.
 
-### Frequent Visitor Goals
+#### Frequent Visitor Goals
 
 - Be able to upload projects.
 
 ---
 
-# Design
+## Design
 
-## Colour Scheme
+### Colour Scheme
 
 ![Colour scheme](assets/images/readme/colour-scheme.png) 
 
 The website uses a palette of pastel colours that are often used in the swhomes images. The colour palette was created using the [Coolors](https://coolors.co/) website.
 
-## Typography
+### Typography
 
 Google Fonts was used for the Roboto Mono, it is used for the entire site. It is a sans-serif font. It was chosen as it looked clean and modern.
 
 ![Font](assets/images/readme/font.png)
 
-## Imagery
+### Imagery
 
-The home and contact images where taken from Pexels.com. All gallery images were taken from archDaily.com. I have credited these in the [Credits](#Credits) section.
+The home and contact images where taken from Pexels.com. All gallery images were taken from archdaily.com. I have credited these in the [Credits](#Credits) section.
 All images were compressed through imagify.io and some formats were changed using cloudconvert.com. Chosen images are by random artists and were picked solely based on the style of the business product.
 
-## Wireframes
+### Wireframes
 
 Wireframes were created for mobile and desktop. The wireframes were generates using balsamic, and the images were modified with canvas.
 
-### Home
+#### Home
 
 ![home wireframe](assets/images/readme/homereadme.png) 
 
-### About
+#### About
 
 ![About wireframe](assets/images/readme/aboutreadme.png) 
 
-### Gallery
+#### Gallery
 
 ![Gallery wireframe](assets/images/readme/galleryreadme.png) 
 
-### Contact
+#### Contact
 
 ![Contact wireframe](assets/images/readme/contactreadme.png) 
 
-## Features
+### Features
 
-### Navigation bar in header
+#### Navigation bar in header
 
 This website is comprised oassets/images/readme/footer.pngf four pages, all of them are accessible from the navigation menu. The full responsive navigation bar includes links from the name of the web (SWHome) to the Home page, and links to each of the four pages, Home, About, Gallery and Contact, and is identical in each page to allow for easy navigation.
 
@@ -144,45 +152,45 @@ Movile hamburger nav bar
 
 ![Hamburger navbar](assets/images/readme/navbar-hamburger.png)
 
-### Social media icons in footer 
+#### Social media icons in footer 
 
 The website includes three social media icons for Facebook, Twitter and Instagram. The icons were sourced from fontawasome.com and its color was changed to black to fit the color pallette of the website.
 
 ![Footer](assets/images/readme/footer.png)
 
-### Home page
+#### Home page
 
 The home page has a swedish lanscape background picture with some text giving the visitor an idea of what he/she is going to find in the website.
 
 ![Home page](assets/images/readme/home-page.png)
 
-### About page
+#### About page
 
 The about page introduces what the aim of the website is about and provides contact details for users to comunicate with the website owners.
 
 ![Aboout page](assets/images/readme/about-page.png) 
 
-### Gallery page
+#### Gallery page
 
 The gallery page poovides the images of modern Swedish wooden houses.
 
 ![Gallery page](assets/images/readme/gallery-page.png)
 
-### Contact page
+#### Contact page
 
 Through the contact page the users can send their architecture projects to be part of the content of SWHomes website.
 
 ![Contact page](assets/images/readme/contact-page.png)
 
-### Future Implementations
+#### Future Implementations
 
 Overall performance of the website can be improved as some parts of the site are slowing it down. Links to the full projects can be addes to the gallery section to provide a more complete experince. Newest Architecture tecnologies could also be included as well as information on materials and interior designe. Unfortunately this type of addition required more technical knowledge.
 
-## Accesibility
+### Accesibility
 
 Alt-labels are used for images. Aria-labels for screen readers are implemented at certain places, also semantic elements are used so the page is easy to navigate.
 
-# Tecnologie used
+## Tecnologie used
 
 **GitHub** – storage and deployment<br>
 **Codeanywhere** – IDE used to write, edit, commit and push the code to GitHub<br>
@@ -200,7 +208,7 @@ Alt-labels are used for images. Aria-labels for screen readers are implemented a
 **Google Chrome** - build and test the website<br>
 **Logo logo-generator** - generate logo image<br>
 
-## Languages Used
+### Languages Used
 
 - HTML 
 - CSS 
@@ -232,16 +240,76 @@ To fork the repository:
 
 ## Testing
 
-## CSS Validation
+### CSS Validation
 
 The CSS code was validated using W3C tool.
-![css validation]()
+![css validation](assets/images/readme/test-css.png)
 
-## HTML Validation
+### HTML Validation
 
 Every page of the website was validated using the W3C tool.
-![html validation](assets/READMEfiles/test1.jpg)
-![alt text](assets/READMEfiles/test2.jpg)
-![alt text](assets/READMEfiles/test3.jpg)
-![alt text](assets/READMEfiles/test4.jpg)
+![html home validation](assets/images/readme/home-html.png)
+![html about validation](assets/images/readme/about-html.png)
+![html gallery validation](assets/images/readme/gallery-html.png)
+![html contact validation](assets/images/readme/contact-html.png)
 
+### Performance
+
+Website performance was checked with Lighthouse tool.
+![alt text]()
+
+### Accessibility
+
+To check accessibility the Wave Web Accessibility Evaluation tool was used. 
+![alt text]()
+
+### Manual Testing
+
+Manual testing was done to check common elements and how the perform on different devices:
+
+1.	Clicking on the Navbar links brings the user to according page
+2.	Clicking on website name (SWHomes) brings the user to the Home page
+3.	The responsiveness of the Home page
+4.	The responsiveness of the About page
+5.	Clicking on View Larger Map button of the map brings the user to correct location.
+6.	Clicking on the Social Media icons brings the user to correctly allocated Social Media pages
+7.	The responsiveness of the Gallery page
+8.	The responsiveness of the Contact page
+9.	Filling out the form user must fill in all fields in order to be able to submit and upload files
+
+Following devices and browsers were used:
+
+Laptop:
+
+* Macbook Pro 
+
+Mobile Devices:
+
+* iPhone SE
+  
+Browsers:
+
+* Google Chrome
+* Safari
+
+## Credits
+
+### Code Used
+
+1.	The Navigation bar code was used from Love Running Project Challenge
+2.	Gallery section code was used from Love Running Project Challenge
+3.	Contact form with validation was created from w3schools.com and Love Running Project Challenge
+4.	The rest of the code was borrowed and modified mostly from w3schools.com, developer.mozilla.org and Love Running Project Challenge
+
+### Content
+
+All content was written and created by the developer with insperation from other Codeinstitute student projects.
+
+### Media
+
+Images were downloaded from royalty free website pexels.com (<https://www.pexels.com>) and archdaily.com (www.archdaily.com)
+
+  
+### Acknowledgments
+
+My mentor Luke for continuous support and helpful feedback.
