@@ -240,7 +240,7 @@ form {
     border: 1px solid #ffffff;
 }
 
-::file-selector-button {
+input::file-selector-button {
     font-family: inherit;
     color: #241e1e;
     position: relative;
