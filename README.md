@@ -18,16 +18,19 @@ This is a site for architects and anyone interested in house design, where they 
     - [First Time Visitor Goals](#first-time-visitor-goals)
     - [Returning Visitor Goals](#returning-visitor-goals)
     - [Frequent Visitor Goals](#frequent-visitor-goals)
-  - [Design](#design)
-    - [Colour Scheme](#colour-scheme)
-    - [Typography](#typography)
-    - [Imagery](#imagery)
-    - [Wireframes](#wireframes)
+- [Design](#design)
+  - [Colour Scheme](#colour-scheme)
+  - [Typography](#typography)
+  - [Imagery](#imagery)
+  - [Wireframes](#wireframes)
     - [Home](#home)
     - [About](#about)
     - [Gallery](#gallery)
     - [Contact](#contact)
   - [Features](#features)
+    - [Nav](#nav)
+  - [Accesibility](#accesibility)
+- [Tecnologie used](#tecnologie-used)
 
 ---
 
@@ -53,9 +56,9 @@ The target audience is architects, designers and people interested in architectu
 
 ### First Time Visitor Goals
 
-- Find out what swhomes is and how to take part
+- Find out what swhomes is.
 - Be able to navigate the site easily to find information.
-- Be able to find their social media profile.
+- Be able to find swhomes social media profile.
 
 ### Returning Visitor Goals
 
@@ -68,26 +71,26 @@ The target audience is architects, designers and people interested in architectu
 
 ---
 
-## Design
+# Design
 
-### Colour Scheme
+## Colour Scheme
 
 ![Colour scheme](assets/images/readme/colour-scheme.png) <br>
 
 The website uses a palette of pastel colours that are often used in the swhomes images. The colour palette was created using the [Coolors](https://coolors.co/) website.
 
-### Typography
+## Typography
 
 Google Fonts was used for the Roboto Mono, it is used for the entire site. It is a sans-serif font. It was chosen as it looked clean and modern.
 
 ![Font](assets/images/readme/font.png) <br>
 
-### Imagery
+## Imagery
 
 The home and contact images where taken from Pexels.com. All gallery images were taken from archDaily.com. I have credited these in the [Credits](#Credits) section.
 All images were compressed through imagify.io. Chosen images are by random artists and were picked solely based on the style of the business product.
 
-### Wireframes
+## Wireframes
 
 Wireframes were created for mobile and desktop. The wireframes were generates using balsamic, and the images were modified with canvas.
 
@@ -108,3 +111,31 @@ Wireframes were created for mobile and desktop. The wireframes were generates us
 ![Contact wireframe](assets/images/readme/contactreadme.png) <br>
 
 ## Features
+
+### Navigation bar in header
+
+This website is comprised of four pages, all of them are accessible from the navigation menu. The full responsive navigation bar includes links from the name of the web (SWHome) to the Home page, and links to each of the four pages, Home, About, Gallery and Contact, and is identical in each page to allow for easy navigation.
+
+The navigation bar is located in the upper right corner and for smaller screens it is responsive becoming a hamburger menu. 
+
+This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+
+The active page is underlined to allow easy understanding of where the user is within the website.
+
+Desktop nav bar
+
+![Navbar](assets/images/readme/navbar.png)
+
+Movile hamburger nav bar
+
+![Hamburger navbar](assets/images/readme/navbar-hamburger.png)
+
+### Social media icons in footer 
+
+The website includes three social media icons for Facebook, Twitter and Instagram. The icons were sourced from fontawasome.com and its color was changed to black to fit the color pallette of the website.
+
+![Footer](assets/images/readme/footer.png)
+
+## Accesibility
+
+# Tecnologie used
