@@ -256,12 +256,12 @@ Every page of the website was validated using the W3C tool.
 ### Performance
 
 Website performance was checked with Lighthouse tool.
-![alt text]()
+![alt text](assets/images/readme/lighthouse-test.png)
 
 ### Accessibility
 
 To check accessibility the Wave Web Accessibility Evaluation tool was used. 
-![alt text]()
+![alt text](assets/images/readme/wave-test.png)
 
 ### Manual Testing
 
