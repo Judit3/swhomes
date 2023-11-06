@@ -8,37 +8,26 @@ This is a site for architects and anyone interested in house design, where they 
 
 # CONTENTS
 
-* [User Experience](#user-experience-ux)
-  * [User stories](#user-stories)
-
-* [Design](#design)
-  * [Colour Scheme](#colour-scheme)
-  * [Typography](#typography)
-  * [Imagery](#imagery)
-  * [Wireframes](#wireframes)
-
-* [Features](#features)
-  * [General Features on Each Page](#general-features-on-each-page)
-  * [Future Implementations](#future-implementations)
-  * [Accessibility](#accessibility)
-
-* [Technologies Used](#technologies-used)
-  * [Languages Used](#languages-used)
-  * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
-
-* [Deployment & Local Development](#deployment--local-development)
-  * [Deployment](#deployment)
-  * [Local Development](#local-development)
-    * [How to Fork](#how-to-fork)
-    * [How to Clone](#how-to-clone)
-
-* [Testing](#testing)
-
-* [Credits](#credits)
-  * [Code Used](#code-used)
-  * [Content](#content)
-  * [Media](#media)
-  * [Acknowledgments](#acknowledgments)
+- [Swedish Wooden Homes](#swedish-wooden-homes)
+- [CONTENTS](#contents)
+- [User experience](#user-experience)
+  - [Key information of the site](#key-information-of-the-site)
+  - [Target Audience](#target-audience)
+  - [User stories](#user-stories)
+    - [Client Goals](#client-goals)
+    - [First Time Visitor Goals](#first-time-visitor-goals)
+    - [Returning Visitor Goals](#returning-visitor-goals)
+    - [Frequent Visitor Goals](#frequent-visitor-goals)
+  - [Design](#design)
+    - [Colour Scheme](#colour-scheme)
+    - [Typography](#typography)
+    - [Imagery](#imagery)
+    - [Wireframes](#wireframes)
+    - [Home](#home)
+    - [About](#about)
+    - [Gallery](#gallery)
+    - [Contact](#contact)
+  - [Features](#features)
 
 ---
 
@@ -46,9 +35,9 @@ This is a site for architects and anyone interested in house design, where they 
 
 ## Key information of the site
 
-* What are the latest home designs.
-* How to become a data base contributor and take part.
-* A way for people to locate and contact the site owners.
+- What are the latest home design
+- How to become a data base contributor and take part.
+- A way for people to locate and contact the site owners.
 
 ## Target Audience
 
@@ -58,32 +47,32 @@ The target audience is architects, designers and people interested in architectu
 
 ### Client Goals
 
-* To be able to view the site on a range of device sizes.
-* To make it easy for potential users to find out what the swhomes site is and how to take part.
-* To allow people to be able to contact the swhomes to ask further questions.
+- To be able to view the site on a range of device sizes.
+- To make it easy for potential users to find out what the swhomes site is and how to take part.
+- To allow people to be able to contact the swhomes to ask further questions.
 
 ### First Time Visitor Goals
 
-* Find out what swhomes is and how to take part.
-* Be able to navigate the site easily to find information.
-* Be able to find their social media profile.
+- Find out what swhomes is and how to take part
+- Be able to navigate the site easily to find information.
+- Be able to find their social media profile.
 
 ### Returning Visitor Goals
 
-* Find up to date information on latest Swedish architecture tendencies.
-* Be able to easily contact swhomes with questions.
+- Find up to date information on latest Swedish architecture tendencies.
+- Be able to easily contact swhomes with questions.
 
 ### Frequent Visitor Goals
 
-* Be able to upload projects.
+- Be able to upload projects.
 
-- - -
+---
 
 ## Design
 
 ### Colour Scheme
 
-![Colour scheme](assets/images/readme/colour-scheme.png)<br>
+![Colour scheme](assets/images/readme/colour-scheme.png) <br>
 
 The website uses a palette of pastel colours that are often used in the swhomes images. The colour palette was created using the [Coolors](https://coolors.co/) website.
 
@@ -91,7 +80,7 @@ The website uses a palette of pastel colours that are often used in the swhomes 
 
 Google Fonts was used for the Roboto Mono, it is used for the entire site. It is a sans-serif font. It was chosen as it looked clean and modern.
 
-![Font](assets/images/readme/font.png)<br>   
+![Font](assets/images/readme/font.png) <br>
 
 ### Imagery
 
@@ -100,11 +89,22 @@ All images were compressed through imagify.io. Chosen images are by random artis
 
 ### Wireframes
 
-Wireframes were created for mobile and desktop.
+Wireframes were created for mobile and desktop. The wireframes were generates using balsamic, and the images were modified with canvas.
 
 ### Home
 
-![home wireframe](assets/images/readme/homereadme.png)
+![home wireframe](assets/images/readme/homereadme.png) <br>
 
-###
+### About
 
+![About wireframe](assets/images/readme/aboutreadme.png) <br>
+
+### Gallery
+
+![Gallery wireframe](assets/images/readme/galleryreadme.png) <br>
+
+### Contact
+
+![Contact wireframe](assets/images/readme/contactreadme.png) <br>
+
+## Features
