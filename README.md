@@ -35,7 +35,7 @@ This is a site for architects and anyone interested in house design, where they 
       - [Gallery page](#gallery-page)
       - [Contact page](#contact-page)
       - [Future implementations](#future-implementations)
-    - [Accessibility](#accessibility)
+      - [Accessibility](#accessibility)
   - [Technologies used](#technologies-used)
     - [Languages used](#languages-used)
   - [Deployment](#deployment)
@@ -186,7 +186,7 @@ Through the contact page the users can send their architecture projects to be pa
 
 Overall performance of the website can be improved as some parts of the site are slowing it down. Links to the full projects can be added to the gallery section to provide a more complete experience. Newest Architecture technologies could also be included as well as information on materials and interior design. Unfortunately, this type of addition required more technical knowledge.
 
-### Accessibility
+#### Accessibility
 
 Alt-labels are used for images. Aria-labels for screen readers are implemented at certain places, also semantic elements are used so the page is easy to navigate.
 
