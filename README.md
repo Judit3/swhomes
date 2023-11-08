@@ -347,7 +347,7 @@ One error was found when performing the Wave tests. Corresponding to the lines o
         <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-bars"></i></label>
 As shown in the following image:
 ![Error form label missing](assets/images/readme/error-form-label-missing.png)<br>
-Appearing in each page as they all share the same nav bar code.<br>
+Appearing in each page as they all share this part of the nav bar code.<br>
 It was tryed to fix it with no success.
 
 ## Credits
