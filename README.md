@@ -63,8 +63,8 @@ This is a site for architects and anyone interested in house design, where they 
 ### Key information of the site
 
 - What are the latest home design
-- How to become a data base contributor and take part.
-- A way for people to locate and contact the site owners.
+- How to become a data base contributor and take part
+- A way for people to locate and contact the site owners
 
 ### Target audience
 
@@ -74,20 +74,20 @@ The target audience is architects, designers and people interested in architectu
 
 #### Client goals
 
-- To be able to view the site on a range of device sizes.
-- To make it easy for potential users to find out what the swhomes site is and how to take part.
-- To allow people to be able to contact the swhomes to ask further questions.
-
+- To be able to view the site on a range of device sizes
+- To make it easy for potential users to find out what the swhomes site is and how to take part
+- To allow people to be able to contact the swhomes to ask further questions
+  
 #### First time visitor goals
 
-- Find out what swhomes is.
-- Be able to navigate the site easily to find information.
-- Be able to find swhomes social media profile.
+- Find out what swhomes is
+- Be able to navigate the site easily to find information
+- Be able to find swhomes social media profile
 
 #### Returning visitor goals
 
-- Find up to date information on latest Swedish architecture tendencies.
-- Be able to easily contact swhomes with questions.
+- Find up to date information on latest Swedish architecture tendencies
+- Be able to easily contact swhomes with questions
 
 #### Frequent visitor goals
 
@@ -226,16 +226,16 @@ The live link can be found here - https://judit3.github.io/swhomes/
 
 1. Log into your account on github
 2. Go to the repository of this project, Judit3/swhomes
-3. Go to the Settings tab of this GitHub repository.
-4. On the left-hand sidebar, in the Code and automation section, select Pages.
+3. Go to the Settings tab of this GitHub repository
+4. On the left-hand sidebar, in the Code and automation section, select Pages
 5. Make sure:
-- Source is set to 'Deploy from Branch'.
-- Main branch is selected.
-- Folder is set to / (root).
-6. Under Branch, click Save.
-7. Go back to the Code tab. Wait a few minutes for the build to finish and refresh your repository.
-8. On the right-hand side, in the Deployments section, click on 'github-pages'.
-9. Click on the "open in another tab" symbol to see the live site. The URL will be judit3.github.io/swhomes.
+- Source is set to 'Deploy from Branch'
+- Main branch is selected
+- Folder is set to / (root)
+6. Under Branch, click Save
+7. Go back to the Code tab. Wait a few minutes for the build to finish and refresh your repository
+8. On the right-hand side, in the Deployments section, click on 'github-pages'
+9. Click on the "open in another tab" symbol to see the live site. The URL will be judit3.github.io/swhomes
 
 ### Local development
 
@@ -243,9 +243,9 @@ The live link can be found here - https://judit3.github.io/swhomes/
 
 1. Log into your account on github
 2. Go to the repository of this project, Judit3/swhomes
-3. Click on the code button, and copy your preferred clone link.
-4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
-5. Type 'git clone' into the terminal, paste the link you copied in step 3 and press enter.
+3. Click on the code button, and copy your preferred clone link
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory
+5. Type 'git clone' into the terminal, paste the link you copied in step 3 and press enter
 
 #### How to fork
 
