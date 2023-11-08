@@ -278,11 +278,38 @@ Website performance was checked with Lighthouse tool.
 ### Accessibility
 
 To check accessibility the Wave Web Accessibility Evaluation tool was used. 
-![alt text](assets/images/readme/wave-test.png)
+![Wave test](assets/images/readme/wave-test.png)
 
 ### Manual testing
 
-Manual testing was done to check common elements and how the perform on different devices:
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| `Navbar` |
+|  |  |  |  |  |
+| SWHomes Title | When clicked the user will be redirected to the Home page. | Clicked Title | Redirected to the Home page. | Pass |
+| Home Page Link | When clicked the user will be redirected to the Home page.| Clicked link | Redirected to the Home page. | Pass |
+| About Page Link | When clicked the user will be redirected to the About page. | Clicked link | Redirected to the About page. | Pass |
+| Gallery Page Link | When clicked the user will be redirected to the Gallery page. | Clicked link | Redirected to the Gallery page. | Pass |
+| Contact Page Link | When clicked the user will be redirected to the Contact page. | Clicked link | Redirected to the Contact page | Pass |
+| --- | --- | --- | --- | --- |
+| `Footer` |
+|  |  |  |  |  |
+| Social Media Icons | When clicked the user will be redirected to the appropriate social media pages in a new window. | Clicked icon | Redirected to the social media page in a new window. | Pass |
+| --- | --- | --- | --- | --- |
+| `About Page` |
+|   |   |   |   |
+| Map | When clicked "view larger map" it will open the google maps address in a new window | Clicked on the link | Opened a new google maps window for the appropriate address | Pass |
+| Telephone and E-mail links | When hovered on them and clicked it will open the a new window to allow the use of a telephone or e.mail contact system | Clicked on the link | Opened a new window for the election of the contact system | Pass |
+| `Gallery Page` |
+| Gallery responsiviness | When window resized gallery was responsive and site layout looked as expected | Resized window | Gallery was responsive and looks good | Pass |
+| --- | --- | --- | --- | --- |
+| `Contact Page` |
+|   |   |   |   |
+| Contact form | When items were left out there was a message asking to fill the section in| Clicked submit while leaving form unfillled | Form requested sections to be filled in | Pass |
+
+ - - -
+
+Summarizing manual testing was done to check common elements and how the perform on different devices:
 
 1.	Clicking on the Navbar links brings the user to according page
 2.	Clicking on website name (SWHomes) brings the user to the Home page
@@ -327,7 +354,7 @@ Some bugs were found when performing the tests.
 
 ### Content
 
-All content was written and created by the developer with inspiration from other Codeinstitute student projects.
+Content was partially written and created by the developer with inspiration from other Codeinstitute student projects. The text of about page was partially taken from Archdaily.
 
 ### Media
 
