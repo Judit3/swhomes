@@ -162,6 +162,10 @@ iframe {
 }
 
 /* Gallery page*/
+#inspiration {
+    padding: 1rem 2rem;
+}
+
 #photos img {
     width: 100%;
     height: auto;

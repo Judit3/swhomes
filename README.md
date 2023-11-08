@@ -49,6 +49,7 @@ This is a site for architects and anyone interested in house design, where they 
     - [Performance](#performance)
     - [Accessibility](#accessibility-1)
     - [Manual testing](#manual-testing)
+  - [Bugs](#bugs)
   - [Credits](#credits)
     - [Code used](#code-used)
     - [Content](#content)
@@ -307,6 +308,13 @@ Browsers:
 
 * Google Chrome
 * Safari
+
+## Bugs
+
+Some bugs were found when performing the tests.
+
+
+
 
 ## Credits
 
