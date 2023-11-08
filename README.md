@@ -341,7 +341,7 @@ Browsers:
 
 ## Bugs
 
-One error was found when performing the Wabe tests. Corresponding to the lines of code:
+One error was found when performing the Wave tests. Corresponding to the lines of code:
  <!-- Main navigation menu -->
         <input type="checkbox" id="nav-toggle" name="nav-toggle">
         <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-bars"></i></label>
