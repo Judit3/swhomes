@@ -280,7 +280,7 @@ Website performance was checked with Lighthouse tool.
 
 ### Accessibility
 
-To check accessibility the Wave Web Accessibility Evaluation tool was used. One error was detected, refer to [Bugs](##Bugs).<br>
+To check accessibility the Wave Web Accessibility Evaluation tool was used. One error was detected, refer to [Bugs](##Bugs).
 ![Wave test](assets/images/readme/wave-test.png)
 
 ### Manual testing
