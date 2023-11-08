@@ -345,11 +345,9 @@ One error was found when performing the Wabe tests. Corresponding to the lines o
  <!-- Main navigation menu -->
         <input type="checkbox" id="nav-toggle" name="nav-toggle">
         <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-bars"></i></label>
-As shown in the following images:
-![Error form label](assets/images/readme/error-form-label.png)
-![Error form label missing](assets/images/readme/error-form-label-missing..png)
-
-It was tryed to fix them with no success.
+As shown in the following image:
+![Error form label missing](assets/images/readme/error-form-label-missing.png)
+It was tryed to fix it with no success.
 
 ## Credits
 
