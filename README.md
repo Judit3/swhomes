@@ -299,7 +299,7 @@ To check accessibility the Wave Web Accessibility Evaluation tool was used.
 | `About Page` |
 |   |   |   |   |
 | Map | When clicked "view larger map" it will open the google maps address in a new window | Clicked on the link | Opened a new google maps window for the appropriate address | Pass |
-| Telephone and E-mail links | When hovered on them and clicked it will open the a new window to allow the use of a telephone or e.mail contact system | Clicked on the link | Opened a new window for the election of the contact system | Pass |
+| Telephone and E-mail links | When hovered on them and clicked it will open the a new window to allow the use of a telephone or e-mail contact system | Clicked on the link | Opened a new window for the election of the contact system | Pass |
 | `Gallery Page` |
 | Gallery responsiviness | When window resized gallery was responsive and site layout looked as expected | Resized window | Gallery was responsive and looks good | Pass |
 | --- | --- | --- | --- | --- |
