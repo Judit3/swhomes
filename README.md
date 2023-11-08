@@ -280,7 +280,7 @@ Website performance was checked with Lighthouse tool.
 
 ### Accessibility
 
-To check accessibility the Wave Web Accessibility Evaluation tool was used. One error was detected, refer to [Bugs](## Bugs).
+To check accessibility the Wave Web Accessibility Evaluation tool was used. One error was detected, refer to [Bugs](##Bugs).<br>
 ![Wave test](assets/images/readme/wave-test.png)
 
 ### Manual testing
@@ -346,7 +346,7 @@ One error was found when performing the Wabe tests. Corresponding to the lines o
         <input type="checkbox" id="nav-toggle" name="nav-toggle">
         <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-bars"></i></label>
 As shown in the following image:
-![Error form label missing](assets/images/readme/error-form-label-missing.png)
+![Error form label missing](assets/images/readme/error-form-label-missing.png)<br>
 It was tryed to fix it with no success.
 
 ## Credits
