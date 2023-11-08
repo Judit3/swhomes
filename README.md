@@ -273,7 +273,7 @@ Every page of the website was validated using the W3C tool.
 ### Performance
 
 Website performance was checked with Lighthouse tool.
-![alt text](assets/images/readme/lighthouse-test.png)
+![lighthouse test](assets/images/readme/lighthouse-test.png)
 
 ### Accessibility
 
