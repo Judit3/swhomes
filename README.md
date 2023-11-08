@@ -251,9 +251,9 @@ The live link can be found here - https://judit3.github.io/swhomes/
 
 To fork the repository:
 
-1. Log in (or sign up) to Github.
+1. Log in (or sign up) to Github
 2. Go to the repository for this project, Judit3/swhomes
-3. Click the Fork button in the top right corner.
+3. Click the Fork button in the top right corner
 
 ## Testing
 
