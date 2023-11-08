@@ -39,6 +39,7 @@ This is a site for architects and anyone interested in house design, where they 
   - [Technologies used](#technologies-used)
     - [Languages used](#languages-used)
   - [Deployment](#deployment)
+    - [How to deploy](#how-to-deploy)
     - [Local development](#local-development)
       - [How to clone](#how-to-clone)
       - [How to fork](#how-to-fork)
@@ -217,8 +218,23 @@ Alt-labels are used for images. Aria-labels for screen readers are implemented a
 ## Deployment
 
 The site was deployed to GitHub pages.
-The project was developed in CodeAnywhere application where it was committed and pushed to GitHub where it was deployed.
+The project was developed in CodeAnywhere application, where it was committed and pushed to GitHub where it was deployed.
 The live link can be found here - https://judit3.github.io/swhomes/
+
+### How to deploy
+
+1. Log into your account on github
+2. Go to the repository of this project, Judit3/swhomes
+3. Go to the Settings tab of this GitHub repository.
+4. On the left-hand sidebar, in the Code and automation section, select Pages.
+5. Make sure:
+- Source is set to 'Deploy from Branch'.
+- Main branch is selected.
+- Folder is set to / (root).
+6. Under Branch, click Save.
+7. Go back to the Code tab. Wait a few minutes for the build to finish and refresh your repository.
+8. On the right-hand side, in the Deployments section, click on 'github-pages'.
+9. Click on the "open in another tab" symbol to see the live site. The URL will be judit3.github.io/swhomes.
 
 ### Local development
 
